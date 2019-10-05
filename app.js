@@ -7,7 +7,7 @@ var port = normalizePort(process.env.PORT || '3000');
 
 app.get('/', function (req, res) {
 
-		  res.send('FSE TAs are amazing and cool too!');
+		  res.send('FSE TAs are very nice and cool too!');
 
 });
 
